@@ -1,5 +1,5 @@
 # Obiektowka_Lab1
-lab1 obiektówka
+lab1 obiektówka, s197653
 
 Funkcjonalności:
 - score counter,
