@@ -10,3 +10,8 @@ Funkcjonalności:
 - broń armia biedronek, można sterować pociskami w boki po ich wystrzeleniu
 - broń skrzynia - pułapka na piwo
 - po przekroczeniu 500 punktów, szansa na rozmnożenie się asteroid po ich zastrzeleniu (na dwie losowe); dzieje się to gdy liczba punktów nie jest podzielna przez 5 (czyli gracz musiał zastrzelić wódkę przynajmniej raz)
+
+
+
+https://github.com/user-attachments/assets/0aa7fe21-7fee-4f63-aa80-f6451725e311
+
